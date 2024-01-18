@@ -1,0 +1,7 @@
+echo "# Estructura-I" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M main 
+git remoto agregar origen https://github.com/Leonardo0318/Estructura-I. git
+ git push -u origen principal
